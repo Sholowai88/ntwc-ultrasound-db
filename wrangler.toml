@@ -1,0 +1,7 @@
+name = "ntwc-ultrasound-db"
+main = "index.html"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "DB"
+id = "b53ef7c4df3f40a5a153cea8f8bdded2"
