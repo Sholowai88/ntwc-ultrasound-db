@@ -1,0 +1,6 @@
+@echo off
+echo Starting Equipment Database Server...
+echo.
+echo Please wait...
+python server.py
+pause
